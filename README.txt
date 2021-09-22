@@ -1,0 +1,3 @@
+HƯỚNG DẪN SỬ DỤNG:
+BƯỚC 1: CLICK ĐÚP VÀO FILE HTML
+XONG, VIỆC CÒN LẠI CỦA BẠN LÀ NGHỊCH TRANG WEB ĐÓ :)
